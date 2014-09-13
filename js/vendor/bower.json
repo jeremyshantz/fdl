@@ -1,0 +1,19 @@
+{
+  "name": "x",
+  "version": "0.0.0",
+  "authors": [
+    "taklamakan <taklamakan@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "codemirror": "~3.18.0"
+  }
+}
